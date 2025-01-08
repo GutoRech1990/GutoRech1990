@@ -6,9 +6,9 @@ Coming from a strong background in accounting and tax expertise, I’m now focus
 
 ## About Me
 
-- 🎓 **Education**: Accountant specialized in Brazilian indirect taxes and Software Development student, focused on Web development
+I’m an accountant with extensive experience in Brazilian indirect taxes, now embracing the exciting world of technology. Currently a Software Development student, I’m focusing on web development to combine my analytical expertise with innovative solutions. My journey bridges the gap between numbers and code, aiming to create impactful tools for businesses and users alike. 🚀
 
-- ## Certifications and Courses  
+## Certifications and Courses  
 - 🧑‍💻 [Full-Stack Development Course](https://lifelong-learning.lu): Luxembourg Lifelong Learning Center (Sep2024–Jul2025)  
 - 🎓 [Systems Analysis and Development](https://www.uninter.com): (Oct2022–Apr2025)  
 
