@@ -1,6 +1,7 @@
+# Hello! I'm Guto Rech 👋  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 ![Tech Welcome](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-# Hello! I'm Guto Rech 👋  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 I’m an accountant with extensive experience in Brazilian indirect taxes, now embracing the exciting world of technology. 
 Currently a Software Development student, I’m focusing on web development to combine my analytical expertise with innovative solutions. 
 My journey bridges the gap between numbers and code, aiming to create impactful tools for businesses and users alike. 🚀
