@@ -7,7 +7,7 @@
 - 🎓 **Education**: Accountant specialized in Brazilian indirect taxes and Software Development student, focused on Web development
 
 - 📫 **How to reach me**:
-  - [LinkedIn](www.linkedin.com/in/josé-augusto-rech-dev)
+  - [LinkedIn](https://www.linkedin.com/in/josé-augusto-rech-dev)
   - [Email](mailto:gutorech90@gmail.com)
 
 ## Technologies and Tools
