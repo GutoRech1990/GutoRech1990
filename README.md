@@ -13,8 +13,8 @@ Coming from a strong background in accounting and tax expertise, I’m now focus
 - 🎓 [Systems Analysis and Development](https://www.uninter.com): (Oct2022–Apr2025)  
 
 - 📫 **How to reach me**:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guto_Rech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josé-augusto-rech-dev)  
-  [![Email](https://img.shields.io/badge/Email-gutorech90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gutorech90@gmail.com)  
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guto_Rech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josé-augusto-rech-dev)  
+-  [![Email](https://img.shields.io/badge/Email-gutorech90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gutorech90@gmail.com)  
 
 ## Technologies and Tools
 
