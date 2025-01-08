@@ -27,7 +27,7 @@
 ## Featured Projects
 
 - [Project 1]((https://github.com/GutoRech1990/Back-End_LLLC.git)): Registration system for a vaccination clinic.
-- [Project 2](https://github.com/GutoRech1990/Coffe_Project_V2.git)): Responsive front-end web-site project covering topics related to coffee.
+- [Project 2]((https://github.com/GutoRech1990/Coffe_Project_V2.git)): Responsive front-end web-site project covering topics related to coffee.
 
 ## Fun Facts
 
