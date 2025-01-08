@@ -1,4 +1,6 @@
-# Hello! I'm Guto Rech 👋
+# Hello! I'm Guto Rech 👋  
+I’m passionate about learning new technologies and building projects that solve real-world problems. 
+Coming from a strong background in accounting and tax expertise, I’m now focused on creating impactful web applications. 🚀  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
@@ -6,9 +8,13 @@
 
 - 🎓 **Education**: Accountant specialized in Brazilian indirect taxes and Software Development student, focused on Web development
 
+- ## Certifications and Courses  
+- 🧑‍💻 [Full-Stack Development Course](https://lifelong-learning.lu): Luxembourg Lifelong Learning Center (Sep2024–Jul2025)  
+- 🎓 [Systems Analysis and Development](https://www.uninter.com): (Oct2022–Apr2025)  
+
 - 📫 **How to reach me**:
-  - [LinkedIn](https://www.linkedin.com/in/josé-augusto-rech-dev)
-  - [Email](mailto:gutorech90@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guto_Rech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josé-augusto-rech-dev)  
+  [![Email](https://img.shields.io/badge/Email-gutorech90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gutorech90@gmail.com)  
 
 ## Technologies and Tools
 
@@ -24,16 +30,22 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GutoRech1990&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GutoRech1990&layout=compact&theme=radical)
 
-## Featured Projects
+## Featured Projects  
 
-- [Project 1](https://github.com/GutoRech1990/Back-End_LLLC.git): Registration system for a vaccination clinic.
-- [Project 2](https://github.com/GutoRech1990/Coffe_Project_V2.git): Responsive front-end web-site project covering topics related to coffee.
+### [Registration System for Vaccination Clinic](https://github.com/GutoRech1990/Back-End_LLLC.git)  
+A back-end project using PHP to handle user registration and vaccination schedules securely.  
 
-## Fun Facts
+### [Coffee Project](https://github.com/GutoRech1990/Coffe_Project_V2.git)  
+A responsive website celebrating coffee culture, built with HTML5, CSS3, and JavaScript.  
+
+
+## Beyond Coding
 
 - 🎮 Nintendo Gamer in my free time.
 - ✈️ Love traveling and exploring new cultures.
+- 🍂 Obsessed with autumn aesthetics 🌻  
+- 📚 Always exploring the intersection between technology and tax innovation.  
+- 🎨 Passionate about creating minimalist and responsive UI designs. 
 
-![Snake animation](https://github.com/GutoRech1990/GutoRech1990/blob/main/dist/github-contribution-grid-snake.svg)
 
 
