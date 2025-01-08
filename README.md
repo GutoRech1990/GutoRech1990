@@ -35,3 +35,4 @@
 - ✈️ Love traveling and exploring new cultures.
 
 ![Snake animation](https://github.com/GutoRech1990/GutoRech1990/blob/output/github-contribution-grid-snake.svg)
+
