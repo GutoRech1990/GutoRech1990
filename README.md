@@ -1,3 +1,5 @@
+![Autumn Background](https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+
 # Hello! I'm Guto Rech 👋  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 I’m an accountant with extensive experience in Brazilian indirect taxes, now embracing the exciting world of technology. 
 Currently a Software Development student, I’m focusing on web development to combine my analytical expertise with innovative solutions. 
