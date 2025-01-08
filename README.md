@@ -4,7 +4,7 @@ I’m an accountant with extensive experience in Brazilian indirect taxes, now e
 
 ## Certifications and Courses  
 - 🧑‍💻 [Full-Stack Development Course](https://lifelong-learning.lu): Luxembourg Lifelong Learning Center (Sep2024–Jul2025)  
-- 🎓 [Systems Analysis and Development](https://www.uninter.com): (Oct2022–Apr2025)  
+- 🎓 [Systems Analysis and Development](https://www.uninter.com): Uninter - International University Center (Oct2022–Apr2025)  
 
 
 ## 📫 How to reach me
