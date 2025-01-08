@@ -21,8 +21,8 @@
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GutoRech1990&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GutoRech1990&layout=compact&theme=radical)
 
 ## Featured Projects
 
@@ -34,4 +34,4 @@
 - 🎮 Nintendo Gamer in my free time.
 - ✈️ Love traveling and exploring new cultures.
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GutoRech1990/GutoRech1990/blob/output/github-contribution-grid-snake.svg)
