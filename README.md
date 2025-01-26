@@ -13,7 +13,7 @@ My journey bridges the gap between numbers and code, aiming to create impactful 
 
 
 ## 📫 How to reach me
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-José Augusto_Rech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josé-augusto-rech-tax)  
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Augusto_Rech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josé-augusto-rech-tax)  
 -  [![Email](https://img.shields.io/badge/Email-gutorech90%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gutorech90@gmail.com)  
 
 
